@@ -1,18 +1,16 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+/arrus.4.jpg
+/arrus.jpg
+/envato-labs-ai-1c2a7a32-5d69-441e-bfb6-2190329d978b.jpg
+/envato-labs-ai-2c709155-9e9b-491c-b0fc-5318c600d703.jpg
+/envato-labs-ai-5591c550-a428-4715-ab7d-a7b80d993318.jpg
+/envato-labs-ai-60f5c17b-2104-48c5-bfa6-ca371ce1f749.jpg
+/envato-labs-ai-67d72e72-ba30-42b8-b22e-3644586703f2.jpg
+/envato-labs-ai-ac897dd6-7e0d-4c8f-9a58-afb323938c6a.jpg
+/envato-labs-ai-af17e5a6-07de-4327-a36d-0008303ae65f.jpg
+/envato-labs-ai-bf14df57-2a35-465e-a179-c94d9c526237.jpg
+/envato-labs-ai-e29d1b84-28ca-4b5a-9cbe-8b2aed41e45e.jpg
+/envato-labs-ai-f02578db-639b-4be1-b276-263953333edb.jpg
+/logo-search-grid-2x (1).png
+/logo-search-grid-2x.png
+/WhatsApp Image 2025-06-27 at 20.43.57_98183850.jpg
+/WhatsApp Image 2025-06-27 at 20.43.58_2cb008df.jpg
